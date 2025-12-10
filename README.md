@@ -1,2 +1,2 @@
-# obesity-factors-latam
-Factors contribution to overweight and obesity rates in Mexico, Colombia and Peru
+# Project - Comparing Unsupervised and Supervised Leanring Methods to Examine Factors Contributing to Overweight and Obesity Rates in Mexico, Colombia and Peru 
+
